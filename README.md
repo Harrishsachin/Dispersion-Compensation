@@ -13,6 +13,7 @@ If a transmission fiber of length \(L_{TF}\) is connected in series with a DCF o
 \Delta D_t(\lambda) = D_{TF}(\lambda) \cdot L_{TF} + D_{DCF}(\lambda) \cdot L_{DCF} \cdot \Delta \lambda
 \]
 
+
 where:
 - \(D_{TF}(\lambda)\) = chromatic dispersion factor for the transmission fiber  
 - \(D_{DCF}(\lambda)\) = chromatic dispersion factor for the DCF  
